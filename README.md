@@ -8,7 +8,7 @@ Python tool for Blender asset export and scene layout workflows.
 - Export all selected objects as individual FBX files
 - Automatic naming from Blender object names
 
-![Export Demo](path/to/export_demo.gif)
+![Export Demo](https://drive.google.com/file/d/1JEy-TDJdjVe5aFLK6jCN13lIF9GAsdsj/view?usp=drive_link)
 
 ### Bulk Rescale
 - Rescale multiple selected objects simultaneously
